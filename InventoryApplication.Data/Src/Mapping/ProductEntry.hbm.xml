@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"  namespace="InventoryApplication.Models.Entity" assembly="InventoryApplication">
+	<class name="ProductEntryData" table="product_entry" >
+		<id name="Id" column="id">
+			<generator class="native"></generator>
+		</id>
+		<property name="ProductId" insert="false" update="false">
+			<column name="product_id"  />
+		</property>
+		<many-to-one name="Product"
+		class="InventoryApplication.Models.Entity.Product"
+        column="product_id" 
+        not-null="true"
+		/>
+		<property name="ProfileId" insert="false" update="false">
+			<column name="profile_id"  />
+		</property>
+		<many-to-one name="Profile"
+		class="InventoryApplication.Models.Entity.Profile"
+        column="profile_id"	
+        not-null="true"/>
+		<property name="Quantity">
+			<column name="quantity" sql-type="int" not-null="true" />
+		</property>
+		<property name="Rate">
+			<column name="rate" sql-type="decimal" not-null="true" />
+		</property>
+		<property name="BillNo">
+			<column name="bill_no" sql-type="string" not-null="true" />
+		</property>
+		<property name="VechileNo">
+			<column name="vechile_no" sql-type="string" not-null="true" />
+		</property>
+		<property name ="EntryDate">
+			<column name="entry_date" sql-type="varchar(20)" not-null="true"/>
+		</property>
+
+	</class>
+</hibernate-mapping>

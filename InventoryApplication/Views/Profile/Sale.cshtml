@@ -1,0 +1,270 @@
+﻿@model InventoryApplication.ViewModel.BillCreateViewModel
+
+@{
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+
+<!DOCTYPE html>
+@section header{
+    <h2 class=" ">Sale</h2>
+    <link href="~/css/nepali.datepicker.v3.7.min.css" rel="stylesheet" />
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+</head>
+<body>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    <hr />
+    <div class="row">
+
+        <div class="col-md-12">
+            <form asp-action="Sale" id="saleForm">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-row">
+                    <div class="col-lg-6">                        
+                        <div class="form-group ">
+                            <label class="control-label ">Name</label>
+                            <input class="form-control " value="@Model.Profile.Name" required />
+                            <input value="@Model.Profile.Id" id="profileId" hidden />
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label asp-for="BillDate" class="control-label " >Date</label>
+                            <input asp-for="BillDate" class="form-control " id="saleDate" type="date" required />
+                            <span asp-validation-for="BillDate" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <label asp-for="ProductId" class="control-label ">Product</label>
+                            <select asp-for="ProductId" class="form-control form-group " id="productSelect" asp-items="@(new SelectList(Model.ProductList,"Id","Name"))" >
+                            </select>
+                            <span asp-validation-for="ProductId" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <label class="control-label "> Weight</label>
+                            <select class="form-control form-group " id="weightList" asp-items="@(new SelectList(Model.ProductList,"Id","Weight"))" disabled >
+                            </select>
+                            <span class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <label class="control-label ">Available Quantity</label>
+                            <select class="form-control form-group " id="quantityList" asp-items="@(new SelectList(Model.ProductList,"Id","Quantity"))" disabled >
+                            </select>
+                            <span class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <label asp-for="Quantity" class="control-label ">Quantity</label>
+                            <input asp-for="Quantity" class="form-control" id="quantity" required />
+                            <span asp-validation-for="Quantity" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="form-group">
+                            <label asp-for="Rate" class="control-label ">Rate</label>
+                            <input asp-for="Rate" class="form-control" id="rate" required />
+                            <span asp-validation-for="Rate" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <input asp-for="ProfileId" class="form-control" hidden />
+                    </div>
+                </div>
+
+                <div class="form-group ">
+                    <input type="button" value="Add To Cart" class="btn btn-info float-lg-right " onclick="addToCard()" />
+                    <input type="button" value="Bill" class="btn btn-danger " id="btnSubmit"/>
+
+
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-striped" id="itemTable">
+            <thead class="bg-cyan">
+                <tr>
+                    <th>
+                        Id
+                    </th>
+                    <th class="">
+                        Name
+                    </th>
+                    <th class="">
+                        Weight
+                    </th>
+                    <th class="">
+                        Quantity
+                    </th>
+                    <th class="">
+                        Rate
+                    </th>
+                    <th >
+                        Actions
+                    </th>
+                </tr>
+            </thead>
+            <tbody >            
+            </tbody>
+        </table>
+    </div>
+
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</body>
+</html>
+
+<script src="~/js/nepali.datepicker.v3.7.min.js"></script>
+<script>
+    var selectedProductId;
+
+    window.onload = function () {
+        var mainInput = document.getElementById("nepaliDate");
+        mainInput.nepaliDatePicker();
+        ndpTriggerButton = true;
+
+    };
+    document.getElementById("productSelect").addEventListener('change', function () {
+        var weightList = document.getElementById('weightList');
+        weightList.value = this.value;
+        selectedProductId = this.value;
+        quantityList.value = this.value;
+    });
+    function addToCard() {
+        if (inValidForm()) {
+            return;
+        }
+
+        if ($("#itemTable tbody").length == 0) {
+            $("#itemTable").append("<tbody></tbody>");
+        }
+
+        $("#itemTable tbody").append("<tr>" +
+            "<td class='' >" + $('#productSelect').find(":selected").val() + "</td>" +
+            "<td class=''>" + $('#productSelect').find(":selected").text() + "</td>" +
+            "<td class='' id='weight'>" + $('#weightList').find(":selected").text() + "</td>" +
+            "<td class=''>" + $("#rate").val() + "</td>" +
+            "<td class=''>" + $("#quantity").val() + "</td>" +
+            "<td ><input type='button' value='Delete' class='btn btn-danger' onClick='deleteRowFromTable(this)' id='buttonDelete'></td>" +
+            "</tr>");
+    }
+    function deleteRowFromTable(ctl)
+    {
+        $(ctl).parents("tr").remove();
+    }
+    function workCheck()
+    {
+        alert("Hello");
+    }
+    $("#btnSubmit").click(function () {
+        Swal.fire({
+            title: 'Are you sure?',
+            text: 'Please check all the details',
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Yes'
+        }).then((result) => {
+            if (result.isConfirmed) {
+               var tableArray = [];
+        $('#itemTable tr').each(function (index, tr) {
+            var obj = {};
+            $(tr).each(function () {
+                obj['ProductId'] = $(tr).find('td:eq(0)').text();
+                obj['Quantity'] = $(tr).find('td:eq(4)').text();
+                obj['Rate'] = $(tr).find('td:eq(3)').text();
+            });
+            tableArray.push(obj);
+        });
+        tableArray.shift();
+        if (tableArray.length === 0)
+        {
+            Swal.fire({
+                icon: 'error',
+                text: 'There is not items in the order'
+            })
+            return;
+        }
+        var profileId = $("#profileId").val();
+        var chosenDate = $("#saleDate").val();
+        var model = {
+            "BillItems": tableArray,
+            "ProfileId": profileId,
+            "BillDate": chosenDate
+        }
+
+        $.ajax({
+            type: "post",
+            url: "/Profile/Sale",
+            data: model,
+            datatype: "json",
+            cache: false,
+            success: function (data) {
+
+                window.location = '@Url.Action("MakeBill", "Profile")';
+            },
+            error: function (xhr) {
+                alert('No Valid Data');
+            }
+        });
+            }
+        })
+
+    });
+    function inValidForm() {
+        const billDate = $("#saleDate").val();
+        const rate = $("#rate").val();
+        const quantity = $("#quantity").val();
+        const availableQuantity = $("#quantityList").find(":selected").text();
+        if (billDate === '' || billDate == null) {
+            Swal.fire({
+                icon: 'error',
+                text: 'Please Choose Date'
+            })
+            return true;
+        }
+        if (rate === '' || rate == null || parseFloat(rate) <= 0) {
+            Swal.fire({
+                icon: 'error',
+                text: 'Rate should be greater than zero'
+            })
+            return true;
+        }
+        if (quantity === '' || quantity == null || parseInt(quantity) <= 0) {
+            Swal.fire({
+                icon: 'error',
+                text: 'Quantity should be greater than zero'
+            })
+            return true;
+        }
+        if (parseInt(availableQuantity) < parseInt(quantity)) {
+            Swal.fire({
+                icon: 'error',
+                text: 'Item is insufficient as per the order'
+            })
+            return true;
+        }
+
+
+    }
+
+
+
+</script>
+
+
+

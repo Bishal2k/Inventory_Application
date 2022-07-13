@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"  namespace="InventoryApplication.Models.Entity" assembly="InventoryApplication">
+	<class name="User" table="user" >
+		<id name="Id" column="id">
+			<generator class="native"></generator>
+		</id>
+		<property name="Username">
+			<column name="username" sql-type="varchar(20)" not-null="true"></column>
+		</property>
+		<property name="Password">
+			<column name="password" sql-type="varchar(20)" not-null="true" />
+		</property>
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,91 @@
+﻿@model InventoryApplication.ViewModel.AccountIndexViewModel
+
+@{
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+@section styling
+{
+    <style>
+        #navigationAccount {
+            background-color: silver;
+            color: black;
+        }
+    </style>
+
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+
+<body>
+    <h3 class=" " style="margin-left:46%; font-weight:bold">
+        Account
+    </h3>
+    <hr>
+    <div class="table-responsive">
+        <table class="table table-striped" id="dataTableImplement">
+            <thead class='bg-cyan'>
+                <tr>
+                    <th>
+                        Id
+                    </th>
+                    <th>
+                       Profile Id
+                    </th>
+                    <th class="">
+                        Name
+                    </th>
+                    <th class="">
+                        Payabale Amount
+                    </th>
+                    <th class="">
+                        Receiveable Amount
+                    </th>
+                    <th class="">
+                        Actions
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Accounts.Any())
+                {
+                    @foreach (var item in Model.Accounts)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Id)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Profile.Id)
+                            </td>
+                            <td class="">
+                                @Html.DisplayFor(modelItem => item.Profile.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.AmountPayable)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.AmountReceiveable)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Pay", "MakePayment", new { id = item.Id }, new { @class = "btn btn-primary" })
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="5" class="text-center">No Record Found!</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

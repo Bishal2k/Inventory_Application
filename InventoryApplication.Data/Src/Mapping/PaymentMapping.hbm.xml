@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"  namespace="InventoryApplication.Models.Entity" assembly="InventoryApplication">
+	<class name="Payment" table="payment" >
+		<id name="Id" column="id">
+			<generator class="native"></generator>
+		</id>
+		<property name="AccountId" insert="false" update="false">
+			<column name="account_id"  />
+		</property>
+		<many-to-one name="Account"
+		class="InventoryApplication.Models.Entity.Account"
+        column="account_id"
+        not-null="true"
+		/>	
+		<property name="Amount">
+			<column name="amount" sql-type="decimal" not-null="true" />
+		</property>
+		<property name="PaymentDescription">
+			<column name="payment_description" sql-type="varchar(1000)" not-null="true" />
+		</property>
+		<property name ="PaymentDate">
+			<column name="payment_date" sql-type="varchar(20)" not-null="true"/>
+		</property>
+		<property name ="PaymentType">
+			<column name="payment_type" sql-type="varchar(25)" not-null="true"/>
+		</property>
+
+	</class>
+</hibernate-mapping>

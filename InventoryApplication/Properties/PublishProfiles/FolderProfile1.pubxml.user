@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\LearningProject\InventoryApplicationPublish</_PublishTargetUrl>
+    <History>True|2021-09-03T08:23:07.3636784Z;True|2021-09-03T13:05:21.7230997+05:45;True|2021-09-03T12:58:14.7943093+05:45;</History>
+  </PropertyGroup>
+</Project>

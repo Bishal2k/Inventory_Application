@@ -1,0 +1,92 @@
+﻿@model InventoryApplication.ViewModel.ProfileIndexViewModel
+
+@{
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+@section styling
+{
+    <style>
+        #navigationProfile {
+            background-color: silver;
+            color: black;
+        }
+    </style>
+
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h3 class="" style="margin-left:46%; font-weight:bold">Profile</h3>
+    <p>
+        <a asp-action="Create" class="btn btn-success">Create New</a>
+    </p>
+    <div class="table-responsive">
+        <table class="table table-striped" id="dataTableImplement">
+            <thead class="bg-cyan">
+                <tr>
+                    <th>
+                        Id
+                    </th>
+                    <th class="">
+                        Name        
+                    </th>
+                    <th class="">
+                        Phone
+                    </th>
+                    <th class=" ">
+                        Address
+                    </th>
+                    <th class=" ">
+                        Company
+                    </th>
+                    <th class=" ">
+                        Actions
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Profiles.Any())
+                {
+                    @foreach (var item in Model.Profiles)
+                    {
+                        <tr class=" ">
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Id)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Contact)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Address)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CompanyName)
+                            </td>
+                            <td id="notUseDevFont">
+                                @Html.ActionLink("Sale", "Sale", new { id = item.Id }, new { @class = "btn btn-primary" })
+                                @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-danger" })
+                            </td>
+                        </tr>
+                    }
+
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="6" class="text-center">No Record Found!</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

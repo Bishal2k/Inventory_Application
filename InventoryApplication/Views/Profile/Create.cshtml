@@ -1,0 +1,47 @@
+﻿@model InventoryApplication.ViewModel.ProfileCreateViewModel
+
+@{
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+@section header{
+    <h3 class="">Create Profile</h3>
+}
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label ">Name</label>
+                <input asp-for="Name" class="form-control "  required oninvalid="this.setCustomValidity('Name is Required')" oninput="this.setCustomValidity('')" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label "> Phone</label>
+                <input asp-for="Contact" class="form-control "  required oninvalid="this.setCustomValidity('Contact is Required')" oninput="this.setCustomValidity('')" />
+                <span asp-validation-for="Contact" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label ">Address</label>
+                <input asp-for="Address" class="form-control "  required oninvalid="this.setCustomValidity('Addressd is Required')" oninput="this.setCustomValidity('')" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label "> Company Name</label>
+                <input asp-for="CompanyName" class="form-control "  required oninvalid="this.setCustomValidity('Company Name is Required')" oninput="this.setCustomValidity('')" />
+                <span asp-validation-for="CompanyName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

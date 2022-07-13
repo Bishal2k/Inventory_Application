@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"  namespace="InventoryApplication.Models.Entity" assembly="InventoryApplication">
+	<class name="Bill" table="bill" >
+		<id name="Id" column="id">
+			<generator class="native"></generator>
+		</id>
+		<property name="ProfileId" insert="false" update="false">
+			<column name="profile_id"  />
+		</property>
+		<many-to-one name="Profile"
+		class="InventoryApplication.Models.Entity.Profile"
+        column="profile_id"
+        not-null="true"/>
+		<property name ="BillDate">
+			<column name="bill_date" sql-type="varchar(20)" not-null="true"/>
+		</property>
+		<property name ="TimeStamp">
+			<column name="bill_timestamp" sql-type="DateTime" not-null="true"/>
+		</property>
+		<set name="BillItems" table="bill_items" lazy="false" inverse="true" cascade="all-delete-orphan"  fetch="select" >
+			<key column="bill_id"/>			
+			<one-to-many class="BillItem"/>
+		</set>
+
+	</class>
+</hibernate-mapping>

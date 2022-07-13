@@ -1,0 +1,14 @@
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data.csproj.AssemblyReference.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data.AssemblyInfoInputs.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data.AssemblyInfo.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data.csproj.CoreCompileInputs.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\Src\Mapping\User.hbm.xml
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\InventoryApplication.Data.deps.json
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\InventoryApplication.Data.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\InventoryApplication.Data.pdb
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\InventoryApplication.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\InventoryApplication.Core.pdb
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data.csproj.CopyComplete
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data.pdb

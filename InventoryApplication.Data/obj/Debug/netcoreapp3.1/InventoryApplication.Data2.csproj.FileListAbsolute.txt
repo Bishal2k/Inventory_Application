@@ -1,0 +1,14 @@
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\Src\Mapping\User.hbm.xml
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\InventoryApplication.Data2.deps.json
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\InventoryApplication.Data2.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\InventoryApplication.Data2.pdb
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\InventoryApplication.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\bin\Debug\netcoreapp3.1\InventoryApplication.Core.pdb
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data2.csproj.AssemblyReference.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data2.AssemblyInfoInputs.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data2.AssemblyInfo.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data2.csproj.CoreCompileInputs.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data2.csproj.CopyComplete
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data2.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Data\obj\Debug\netcoreapp3.1\InventoryApplication.Data2.pdb

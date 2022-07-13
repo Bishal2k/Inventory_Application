@@ -1,0 +1,129 @@
+﻿@model InventoryApplication.ViewModel.PaymentIndexViewModel
+
+@{
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+@section styling
+{
+    <style>
+        #navigationPayment {
+            background-color: silver;
+            color: black;
+        }
+    </style>
+
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h3 class="" style="margin-left:46%; font-weight:bold">Transaction</h3>
+    <div class="table-responsive">
+        <table class="table table-striped" id="dataTableImplement">
+            <thead class="bg-cyan">
+                <tr>
+                    <th>
+                        Id
+                    </th>
+                    <th>
+                        Account Id  
+                    </th>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Amount
+                    </th>
+                    <th>
+                        Description
+                    </th>
+                    <th>
+                        Date
+                    </th>
+                    <th>
+                        Transaction Type
+                    </th>
+                    <th>
+                        Actions
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Payments)
+                {
+                    @if (item.PaymentType == "PaymentTypePayed")
+                    {
+                        <tr >
+
+                            <td >
+                                @Html.DisplayFor(modelItem => item.Id)
+                            </td>
+                            <td >
+                                @Html.DisplayFor(modelItem => item.AccountId)
+                            </td>
+                            <td class=" ">
+                                @Html.DisplayFor(modelItem => item.Account.Profile.Name)
+                            </td>
+                            <td > 
+                                @Html.DisplayFor(modelItem => item.Amount)
+                            </td>
+                            <td >
+                                @Html.DisplayFor(modelItem => item.PaymentDescription)
+                            </td>
+                            <td >
+                                @Html.DisplayFor(modelItem => item.PaymentDate)
+                            </td>
+                            <td >
+                                <label class="badge badge-danger">
+                                @Html.DisplayFor(modelItem => item.PaymentType)
+                                </label>
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-danger" })
+
+                                
+                            </td>
+                        </tr>
+                        continue;
+                    }
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AccountId)
+                        </td>
+                        <td class="DevFontTableRow">
+                            @Html.DisplayFor(modelItem => item.Account.Profile.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Amount)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PaymentDescription)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PaymentDate)
+                        </td>
+                        <td>
+                            <label class="badge badge-success">
+                            @Html.DisplayFor(modelItem => item.PaymentType)
+                            </label>
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-info" })
+
+                           
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

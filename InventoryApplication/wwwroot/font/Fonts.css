@@ -1,0 +1,41 @@
+﻿
+@font-face {
+    font-family:'Devlys_010';
+    src: local('Devlys_010'),url('/font/Devlys_010.ttf') format('truetype');
+}
+.DevFont {
+    font-family: 'Devlys_010' !important;
+    font-size: 20px;
+}
+.DevFontNavBar {
+    font-family: 'Devlys_010' !important;
+    font-size: large !important;
+    font-weight: bold !important;
+}
+.DevFontTableRow {
+    font-family: 'Devlys_010' !important;
+    font-size: large;
+    font-weight: bold;
+}
+/*.dataTables_filter input {
+    font-family: 'Devlys_010' !important;
+    font-size: 18px;
+    font-weight: bold;
+}*/
+.DevFontFormLabel {
+    font-family: 'Devlys_010' !important;
+    font-size: 24px;
+    font-weight: bold;
+}
+.DevFontFormInput {
+    font-family: 'Devlys_010' !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+#notUseDevFont {
+    font-family: Arial;
+    font-size: 18px;
+}
+.DevFontHeader {
+    
+}

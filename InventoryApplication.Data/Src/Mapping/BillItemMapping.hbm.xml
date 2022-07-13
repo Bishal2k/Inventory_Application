@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"  namespace="InventoryApplication.Models.Entity" assembly="InventoryApplication">
+	<class name="BillItem" table="bill_items" >
+		<id name="Id" column="id">
+			<generator class="native"></generator>
+		</id>
+		<many-to-one name="Item"
+		class="InventoryApplication.Models.Entity.Product"
+        column="product_id"
+	    cascade="all"/>
+		<many-to-one name="Bill"
+		class="InventoryApplication.Models.Entity.Bill"
+        column="bill_id"
+		cascade="all"/>
+		<property name="ProductId" insert="false" update="false">
+			<column name="product_id"  />
+		</property>
+		<property name="BillId"  insert="false" update="false">
+			<column name="bill_id"  />
+		</property>
+		
+		<property name="Quantity">
+			<column name="quantity" sql-type="int" not-null="true" />
+		</property>
+		<property name="Rate">
+			<column name="rate" sql-type="double" not-null="true" />
+		</property>
+	</class>
+</hibernate-mapping>

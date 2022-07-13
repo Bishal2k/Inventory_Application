@@ -1,0 +1,61 @@
+﻿@model InventoryApplication.ViewModel.BillCreateViewModel
+
+@{
+    
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+
+
+<div class="table-responsive">
+    <table class="table">
+        <thead class="bg-cyan">
+            <tr>
+
+                <th>
+                    Id
+                </th>
+                <th>
+                    Product Id
+                </th>
+                <th class=" ">
+                    Product Name
+                </th>
+                <th class=" ">
+                    Quantity
+                </th>
+                <th class=" ">
+                    Rate
+                </th>
+
+                <th class="">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.BillItems)
+            {
+                <tr>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductId)
+                    </td>
+                    <td class=" ">
+                        @Html.DisplayFor(modelItem => item.Item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Rate)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Edit", "EditBillDetails", new {  billItemId=item.Id, billId=item.BillId  }, new { @class = "btn btn-info" }) 
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

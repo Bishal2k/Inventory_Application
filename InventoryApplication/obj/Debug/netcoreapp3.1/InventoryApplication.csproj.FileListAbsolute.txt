@@ -1,0 +1,591 @@
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.exe
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.deps.json
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.runtimeconfig.json
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.runtimeconfig.dev.json
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.pdb
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.Views.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.Views.pdb
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Antlr3.Runtime.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Iesi.Collections.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\NHibernate.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Remotion.Linq.EagerFetching.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.AssemblyInfoInputs.cache
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.AssemblyInfo.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.csproj.CoreCompileInputs.cache
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.RazorAssemblyInfo.cache
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.RazorAssemblyInfo.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\staticwebassets\InventoryApplication.StaticWebAssets.Manifest.cache
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\staticwebassets\InventoryApplication.StaticWebAssets.xml
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\InventoryApplication.styles.css
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.TagHelpers.input.cache
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.TagHelpers.output.cache
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.RazorCoreGenerate.cache
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.Views.pdb
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.csproj.CopyComplete
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.dll
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.pdb
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.genruntimeconfig.cache
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MasterLayout.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NotificationPartialView.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Create.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Edit.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\ProductEntry\Create.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\ProductEntry\Index.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\ProductEntry\Edit.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Sale.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Create.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Index.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Edit.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\MakeBill.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Bill\Index.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Bill\Edit.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Bill\Details.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Bill\EditBillDetails.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Profile\MakeBill.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\hibernate.cfg.xml
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Bishal Gautam\source\repos\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Mapping\User.hbm.xml
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.StaticWebAssets.xml
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.exe
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Src\Mapping\User.hbm.xml
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\hibernate.cfg.xml
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.deps.json
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.runtimeconfig.json
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.runtimeconfig.dev.json
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.pdb
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.Views.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.Views.pdb
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Antlr3.Runtime.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Iesi.Collections.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\NHibernate.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\Remotion.Linq.EagerFetching.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.Core.pdb
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.csproj.AssemblyReference.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.AssemblyInfoInputs.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.AssemblyInfo.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.csproj.CoreCompileInputs.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.RazorAssemblyInfo.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.RazorAssemblyInfo.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\staticwebassets\InventoryApplication.StaticWebAssets.Manifest.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.TagHelpers.input.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.TagHelpers.output.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.RazorCoreGenerate.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\MakeBill.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Bill\Details.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Bill\Edit.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Bill\EditBillDetails.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Bill\Index.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Create.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Edit.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Index.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\ProductEntry\Create.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\ProductEntry\Edit.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\ProductEntry\Index.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Create.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Edit.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Profile\MakeBill.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Sale.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MasterLayout.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NotificationPartialView.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.RazorTargetAssemblyInfo.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.RazorTargetAssemblyInfo.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.Views.pdb
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.csproj.CopyComplete
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.pdb
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.genruntimeconfig.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\obj\Debug\netcoreapp3.1\InventoryApplication.MvcApplicationPartsAssemblyInfo.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.Data.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication\bin\Debug\netcoreapp3.1\InventoryApplication.Data.pdb

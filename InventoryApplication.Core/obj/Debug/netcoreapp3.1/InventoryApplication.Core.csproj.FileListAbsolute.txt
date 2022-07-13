@@ -1,0 +1,10 @@
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Core\obj\Debug\netcoreapp3.1\InventoryApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Core\obj\Debug\netcoreapp3.1\InventoryApplication.Core.AssemblyInfoInputs.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Core\obj\Debug\netcoreapp3.1\InventoryApplication.Core.AssemblyInfo.cs
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Core\obj\Debug\netcoreapp3.1\InventoryApplication.Core.csproj.CoreCompileInputs.cache
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Core\bin\Debug\netcoreapp3.1\InventoryApplication.Core.deps.json
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Core\bin\Debug\netcoreapp3.1\InventoryApplication.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Core\bin\Debug\netcoreapp3.1\InventoryApplication.Core.pdb
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Core\obj\Debug\netcoreapp3.1\InventoryApplication.Core.dll
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Core\obj\Debug\netcoreapp3.1\InventoryApplication.Core.pdb
+E:\Inventory_Application_English\InventoryApplication\InventoryApplication.Core\obj\Debug\netcoreapp3.1\InventoryApplication.Core.csproj.AssemblyReference.cache

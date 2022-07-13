@@ -1,0 +1,66 @@
+﻿@model InventoryApplication.ViewModel.BillIndexViewModel
+
+@{
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+@section styling
+{
+    <style>
+        #navigationBill {
+            background-color: silver;
+            color: black;
+        }
+    </style>
+
+}
+<h3 class=" "style="margin-left:46%; font-weight:bold">
+    Bill Details
+</h3>
+<hr>
+<div class="table-responsive ">
+    <table class="table" id="dataTableImplement">
+        <thead class="bg-cyan">
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Profile Id
+                </th>
+                <th class=" ">
+                    Name
+                </th>
+                <th class=" ">
+                    Date
+                </th>
+
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Bills)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProfileId)
+                    </td>
+                    <td class=" ">
+                        @Html.DisplayFor(modelItem => item.Profile.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BillDate)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-danger" })
+                        @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-success" })
+                        @Html.ActionLink("Print", "Print", new { id = item.Id }, new { @class = "btn btn-info" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

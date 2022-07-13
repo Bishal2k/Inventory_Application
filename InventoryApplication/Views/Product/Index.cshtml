@@ -1,0 +1,75 @@
+﻿@model InventoryApplication.ViewModel.ProductIndexViewModel
+
+@{
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+@section styling
+{
+    <style>
+        #navigationProduct {
+            background-color: silver;
+            color: black;
+        }
+    </style>
+
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h3 class=" " style="margin-left:46%; font-weight:bold">Product Entry</h3>
+    <p>
+        <a asp-action="Create" class="btn btn-success">Create New</a>
+    </p>
+    <div class="table-responsive">
+        <table class="table table-striped" id="dataTableImplement">
+            <thead class="bg-cyan">
+                <tr>
+                    <th>
+                        Id
+                    </th>
+                    <th class=" ">
+                        Name
+                    </th>
+                    <th class=" ">
+                        Weight (Kg)
+                    </th>
+                    <th class=" ">
+                        Quantity
+                    </th>
+                    <th class=" ">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Products)
+                {
+                    <tr>
+                        <td class=" ">
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td class="">
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td class="">
+                            @Html.DisplayFor(modelItem => item.Weight)
+                        </td>
+                        <td class="">
+                            @Html.DisplayFor(modelItem => item.Quantity)
+                        </td>
+
+                        <td>
+                            @Html.ActionLink("Add", "Add", new { id = item.Id }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-danger" })
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

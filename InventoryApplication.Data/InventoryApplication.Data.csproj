@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Src\Mapping\AccountMapping.hbm.xml" />
+    <None Remove="Src\Mapping\BillItemMapping.hbm.xml" />
+    <None Remove="Src\Mapping\BillMapping.hbm.xml" />
+    <None Remove="Src\Mapping\PaymentMapping.hbm.xml" />
+    <None Remove="Src\Mapping\ProductEntry.hbm.xml" />
+    <None Remove="Src\Mapping\ProductMapping.hbm.xml" />
+    <None Remove="Src\Mapping\ProfileMapping.hbm.xml" />
+    <None Remove="Src\Mapping\User.hbm.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Src\Mapping\AccountMapping.hbm.xml" />
+    <EmbeddedResource Include="Src\Mapping\BillItemMapping.hbm.xml" />
+    <EmbeddedResource Include="Src\Mapping\BillMapping.hbm.xml" />
+    <EmbeddedResource Include="Src\Mapping\PaymentMapping.hbm.xml" />
+    <EmbeddedResource Include="Src\Mapping\ProductEntry.hbm.xml" />
+    <EmbeddedResource Include="Src\Mapping\ProductMapping.hbm.xml" />
+    <EmbeddedResource Include="Src\Mapping\ProfileMapping.hbm.xml" />
+    <EmbeddedResource Include="Src\Mapping\User.hbm.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.29" />
+    <PackageReference Include="NHibernate" Version="5.3.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InventoryApplication.Core\InventoryApplication.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,112 @@
+﻿@model InventoryApplication.ViewModel.ProductEntryIndexViewModel
+
+@{
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+@section styling
+{
+    <style>
+        #navigationProductEntryDetails {
+            background-color: silver;
+            color: black;
+        }
+    </style>
+
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h3 class="" style="margin-left:46%; font-weight:bold">Product Entry Details</h3>
+    <div class="table-responsive">
+        <table class="table table-striped" id="dataTableImplement">
+            <thead class="bg-cyan">
+                <tr>
+                    <th>
+                        Id
+                    </th>
+                    <th>
+                        Product Id
+                    </th>
+                    <th class="">
+                        Product Name
+                    </th>
+                    <th class=" ">
+                        Weight
+                    </th>
+                    <th>
+                        Profile Id
+                    </th>
+                    <th>
+                        Profile Name
+                    </th>
+                    <th class="">
+                        Quantity
+                    </th>
+                    <th class=" ">
+                        Rate
+                    </th>
+                    <th class=" ">
+                        Bill
+                    </th>
+                    <th class="">
+                        Vechile No
+                    </th>
+                    <th class=" ">
+                        Date
+                    </th>
+                    <th class=" ">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.ProductEntryDatas)
+                {
+                    <tr>
+                        <td class="">
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td class="">
+                            @Html.DisplayFor(modelItem => item.ProductId)
+                        </td>
+                        <td class="">
+                            @Html.DisplayFor(modelItem => item.Product.Name)
+                        </td>
+                        <td class="">
+                            @Html.DisplayFor(modelItem => item.Product.Weight)
+                        </td>
+                        <td class="">
+                            @Html.DisplayFor(modelItem => item.ProfileId)
+                        </td>
+                        <td class="">
+                            @Html.DisplayFor(modelItem => item.Profile.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Quantity)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Rate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.BillNo)
+                        </td>
+                        <td class="">
+                            @Html.DisplayFor(modelItem => item.VechileNo)
+                        </td>
+                        <td>
+
+                            @Html.DisplayFor(modelItem => item.EntryDate)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-danger" })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
