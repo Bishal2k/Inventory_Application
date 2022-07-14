@@ -7,6 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using UserManagementData.HibernateHelper;
 using NHibernate.Linq;
+using NHibernate.Criterion;
 
 namespace InventoryApplication.Repository
 {
@@ -20,7 +21,8 @@ namespace InventoryApplication.Repository
         public async Task<User> GetByUserNameAsync(string userName)
         {
             ISession session = _nHibernateHelper.GetCurrentSession();
-            return await session.Query<User>().Where(x => x.Username == userName).SingleOrDefaultAsync().ConfigureAwait(false);
+             return await session.Query<User>().Where(x => x.Username == userName).SingleOrDefaultAsync().ConfigureAwait(false);
+            
         }
 
         public Task InsertAsync(User user)

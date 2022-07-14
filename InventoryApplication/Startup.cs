@@ -35,12 +35,6 @@ namespace InventoryApplication
             services.AddControllersWithViews().AddRazorRuntimeCompilation() ;
             services.AddSession();
             services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-            //services.AddSession(options =>
-            //{
-            //    options.IdleTimeout = TimeSpan.FromMinutes(30);//We set Time here 
-            //    options.Cookie.HttpOnly = true;
-            //    options.Cookie.IsEssential = true;
-            //});
             services.AddDistributedMemoryCache();
             services.AddHttpContextAccessor();
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)

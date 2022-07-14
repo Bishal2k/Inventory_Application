@@ -19,7 +19,7 @@ namespace UserManagementData.HibernateHelper
         private readonly IHttpContextAccessor _httpContextAccessor;
         public NHibernateHelper(IHttpContextAccessor httpContextAccessor)
         {
-            _sessionFactory = new Configuration().Configure("hibernate.cfg.xml").BuildSessionFactory();
+            _sessionFactory = new Configuration().Configure("hibernate.cfg.xml").AddAssembly("InventoryApplication.Data").BuildSessionFactory();
             _httpContextAccessor = httpContextAccessor;
         }
         public ISession GetCurrentSession()
