@@ -6,6 +6,16 @@
 @section header{
     <h3 class="">Edit Product Entry</h3>
 }
+@section styling
+{
+    <style>
+        #navigationProductEntryDetails {
+            background-color: silver;
+            color: black;
+        }
+    </style>
+
+}
 <!DOCTYPE html>
 
 <html>
@@ -19,28 +29,28 @@
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="form-group">
 
-                    <input asp-for="Id" class="form-control" hidden/>
+                    <input asp-for="Id" class="form-control" hidden />
 
                 </div>
                 <div class="form-group">
-                    
-                    <input asp-for="ProductId" class="form-control" hidden/>
+
+                    <input asp-for="ProductId" class="form-control" hidden />
                     <span asp-validation-for="ProductId" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label class="control-label ">Name</label>
-                    <select asp-for="ProfileId" class="form-control form-group " asp-items="@(new SelectList(Model.Profiles,"Id","Name","@Model.ProfileId"))" >
+                    <select asp-for="ProfileId" class="form-control form-group " asp-items="@(new SelectList(Model.Profiles,"Id","Name","@Model.ProfileId"))">
                     </select>
                     <span asp-validation-for="ProfileId" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label class="control-label ">Quantity</label>
-                    <input asp-for="Quantity" class="form-control" min="1"/>
+                    <input asp-for="Quantity" class="form-control" min="1" />
                     <span asp-validation-for="Quantity" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label class="control-label ">Rate</label>
-                    <input asp-for="Rate" class="form-control" min="1"/>
+                    <input asp-for="Rate" class="form-control" min="1" />
                     <span asp-validation-for="Rate" class="text-danger"></span>
                 </div>
                 <div class="form-group">
@@ -50,12 +60,12 @@
                 </div>
                 <div class="form-group">
                     <label class="control-label ">Vechile No</label>
-                    <input asp-for="VechileNo" class="form-control DevFont"/>
+                    <input asp-for="VechileNo" class="form-control DevFont" />
                     <span asp-validation-for="VechileNo" class="text-danger"></span>
                 </div>
                 <div class="form-group">
-                    <label asp-for="EntryDate" class="control-label " >Entry Date</label>
-                    <input asp-for="EntryDate" class="form-control " id="entryDate" type="date"/>
+                    <label asp-for="EntryDate" class="control-label ">Entry Date</label>
+                    <input asp-for="EntryDate" class="form-control " id="entryDate" type="date" />
                     <span asp-validation-for="EntryDate" class="text-danger"></span>
                 </div>
                 <div class="form-group">

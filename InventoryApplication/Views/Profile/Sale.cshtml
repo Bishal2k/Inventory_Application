@@ -3,7 +3,16 @@
 @{
     Layout = "~/Views/Shared/_MasterLayout.cshtml";
 }
+@section styling
+{
+    <style>
+        #navigationProfile {
+            background-color: silver;
+            color: black;
+        }
+    </style>
 
+}
 <!DOCTYPE html>
 @section header{
     <h2 class=" ">Sale</h2>
@@ -24,7 +33,7 @@
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
                 <div class="form-row">
-                    <div class="col-lg-6">                        
+                    <div class="col-lg-6">
                         <div class="form-group ">
                             <label class="control-label ">Name</label>
                             <input class="form-control " value="@Model.Profile.Name" required />
@@ -33,7 +42,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="form-group">
-                            <label asp-for="BillDate" class="control-label " >Date</label>
+                            <label asp-for="BillDate" class="control-label ">Date</label>
                             <input asp-for="BillDate" class="form-control " id="saleDate" type="date" required />
                             <span asp-validation-for="BillDate" class="text-danger"></span>
                         </div>
@@ -41,7 +50,7 @@
                     <div class="col-lg-4">
                         <div class="form-group">
                             <label asp-for="ProductId" class="control-label ">Product</label>
-                            <select asp-for="ProductId" class="form-control form-group " id="productSelect" asp-items="@(new SelectList(Model.ProductList,"Id","Name"))" >
+                            <select asp-for="ProductId" class="form-control form-group " id="productSelect" asp-items="@(new SelectList(Model.ProductList,"Id","Name"))">
                             </select>
                             <span asp-validation-for="ProductId" class="text-danger"></span>
                         </div>
@@ -49,7 +58,7 @@
                     <div class="col-lg-4">
                         <div class="form-group">
                             <label class="control-label "> Weight</label>
-                            <select class="form-control form-group " id="weightList" asp-items="@(new SelectList(Model.ProductList,"Id","Weight"))" disabled >
+                            <select class="form-control form-group " id="weightList" asp-items="@(new SelectList(Model.ProductList,"Id","Weight"))" disabled>
                             </select>
                             <span class="text-danger"></span>
                         </div>
@@ -57,7 +66,7 @@
                     <div class="col-lg-4">
                         <div class="form-group">
                             <label class="control-label ">Available Quantity</label>
-                            <select class="form-control form-group " id="quantityList" asp-items="@(new SelectList(Model.ProductList,"Id","Quantity"))" disabled >
+                            <select class="form-control form-group " id="quantityList" asp-items="@(new SelectList(Model.ProductList,"Id","Quantity"))" disabled>
                             </select>
                             <span class="text-danger"></span>
                         </div>
@@ -84,7 +93,7 @@
 
                 <div class="form-group ">
                     <input type="button" value="Add To Cart" class="btn btn-info float-lg-right " onclick="addToCard()" />
-                    <input type="button" value="Bill" class="btn btn-danger " id="btnSubmit"/>
+                    <input type="button" value="Bill" class="btn btn-danger " id="btnSubmit" />
 
 
                 </div>
@@ -110,12 +119,12 @@
                     <th class="">
                         Rate
                     </th>
-                    <th >
+                    <th>
                         Actions
                     </th>
                 </tr>
             </thead>
-            <tbody >            
+            <tbody>
             </tbody>
         </table>
     </div>

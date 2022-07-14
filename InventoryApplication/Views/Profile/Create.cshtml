@@ -3,7 +3,16 @@
 @{
     Layout = "~/Views/Shared/_MasterLayout.cshtml";
 }
+@section styling
+{
+    <style>
+        #navigationProfile {
+            background-color: silver;
+            color: black;
+        }
+    </style>
 
+}
 <!DOCTYPE html>
 
 @section header{
@@ -16,22 +25,22 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label class="control-label ">Name</label>
-                <input asp-for="Name" class="form-control "  required oninvalid="this.setCustomValidity('Name is Required')" oninput="this.setCustomValidity('')" />
+                <input asp-for="Name" class="form-control " required oninvalid="this.setCustomValidity('Name is Required')" oninput="this.setCustomValidity('')" />
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label class="control-label "> Phone</label>
-                <input asp-for="Contact" class="form-control "  required oninvalid="this.setCustomValidity('Contact is Required')" oninput="this.setCustomValidity('')" />
+                <input asp-for="Contact" class="form-control " required oninvalid="this.setCustomValidity('Contact is Required')" oninput="this.setCustomValidity('')" />
                 <span asp-validation-for="Contact" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label class="control-label ">Address</label>
-                <input asp-for="Address" class="form-control "  required oninvalid="this.setCustomValidity('Addressd is Required')" oninput="this.setCustomValidity('')" />
+                <input asp-for="Address" class="form-control " required oninvalid="this.setCustomValidity('Addressd is Required')" oninput="this.setCustomValidity('')" />
                 <span asp-validation-for="Address" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label class="control-label "> Company Name</label>
-                <input asp-for="CompanyName" class="form-control "  required oninvalid="this.setCustomValidity('Company Name is Required')" oninput="this.setCustomValidity('')" />
+                <input asp-for="CompanyName" class="form-control " required oninvalid="this.setCustomValidity('Company Name is Required')" oninput="this.setCustomValidity('')" />
                 <span asp-validation-for="CompanyName" class="text-danger"></span>
             </div>
             <div class="form-group">

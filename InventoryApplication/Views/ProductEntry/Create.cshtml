@@ -3,7 +3,16 @@
 @{
     Layout = "~/Views/Shared/_MasterLayout.cshtml";
 }
+@section styling
+{
+    <style>
+        #navigationProductEntryDetails {
+            background-color: silver;
+            color: black;
+        }
+    </style>
 
+}
 <!DOCTYPE html>
 @section header{
     <h2 class=" ">Add Product</h2>
@@ -21,24 +30,24 @@
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="form-group">
                     <label asp-for="ProductId" class="control-label" hidden></label>
-                    <input asp-for="ProductId" class="form-control" hidden/>
+                    <input asp-for="ProductId" class="form-control" hidden />
                     <span asp-validation-for="ProductId" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label class="control-label ">Supplier Name</label>
-                    <select asp-for="ProfileId" class="form-control form-group " asp-items="@(new SelectList(Model.Profiles,"Id","Name"))" >
+                    <select asp-for="ProfileId" class="form-control form-group " asp-items="@(new SelectList(Model.Profiles,"Id","Name"))">
                     </select>
                     <span asp-validation-for="ProfileId" class="text-danger"></span>
                 </div>
 
                 <div class="form-group">
                     <label class="control-label ">Quantity</label>
-                    <input asp-for="Quantity" class="form-control" min="1"/>
+                    <input asp-for="Quantity" class="form-control" min="1" />
                     <span asp-validation-for="Quantity" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label class="control-label ">Rate</label>
-                    <input asp-for="Rate" class="form-control" min="1"/>
+                    <input asp-for="Rate" class="form-control" min="1" />
                     <span asp-validation-for="Rate" class="text-danger"></span>
                 </div>
                 <div class="form-group">
@@ -48,7 +57,7 @@
                 </div>
                 <div class="form-group">
                     <label class="control-label ">Vechile No</label>
-                    <input asp-for="VechileNo" class="form-control DevFont"  style="font-size:20px; font-weight:bold"/>
+                    <input asp-for="VechileNo" class="form-control DevFont" style="font-size:20px; font-weight:bold" />
                     <span asp-validation-for="VechileNo" class="text-danger"></span>
                 </div>
                 <div class="form-group">
@@ -75,7 +84,7 @@
 </body>
 
 </html>
-    <script src="~/js/nepali.datepicker.v3.7.min.js"></script>
+<script src="~/js/nepali.datepicker.v3.7.min.js"></script>
 <script type="text/javascript">
     window.onload = function () {
         var mainInput = document.getElementById("nepaliDate");
