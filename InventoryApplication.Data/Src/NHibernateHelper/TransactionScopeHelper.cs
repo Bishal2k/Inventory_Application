@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
 
-namespace Crystal.Sms.Core.Helper
+namespace InventoryApplication.Core.Helper
 {
     public class TransactionScopeHelper
     {
